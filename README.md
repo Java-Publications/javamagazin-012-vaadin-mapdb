@@ -17,7 +17,7 @@ Sometimes it is the small application that will agree
 Dozens of employees enable their work to be done efficiently.
 We will deal here with a possible variant based on Vaadin and MapDB.
 
-## MapDB - [www.mapdb.org](www.mapdb.org)
+## MapDB - [hhp://www.mapdb.org](http://www.mapdb.org)
 This demo will show you how you could
 use MapDB as an ImageCache.
 The basic Idea behind is, that MapDB will give you the possibility to create 
