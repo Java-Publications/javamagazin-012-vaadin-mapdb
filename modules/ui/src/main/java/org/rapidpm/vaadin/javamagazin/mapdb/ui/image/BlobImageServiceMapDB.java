@@ -31,7 +31,7 @@ public class BlobImageServiceMapDB implements HasLogger, BlobService {
       = (blobID) -> readAllBytes(new File(STORAGE_PREFIX + blobID).toPath());
 
 
-  //@Override
+  @Override
   public Result<byte[]> loadBlob(String blobID) {
     //hard coded right now
     final byte[]  imageByteArray = IMAGE_MAP_IN_MEMORY.get(blobID);
