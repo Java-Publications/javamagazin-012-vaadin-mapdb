@@ -179,5 +179,7 @@ and difficulties in production like Memory Leaks.
 Feel free to try and enjoy.
 
 If you have any comments 
-ping my on Twitter [https://twitter.com/SvenRuppert](https://twitter.com/SvenRuppert)
-or direct via email sven.ruppert (a) gmail.com
+ping my on 
+
+* Twitter [https://twitter.com/SvenRuppert](https://twitter.com/SvenRuppert)
+* email sven.ruppert (a) gmail.com
